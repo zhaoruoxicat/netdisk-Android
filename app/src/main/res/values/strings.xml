@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">自建网盘</string>
+
+    <string name="server_hint">服务器地址（如 192.168.1.10:8088）</string>
+    <string name="server_tip">可只填 IP 和端口，自动补 http://。网盘装在子目录时要带上，例如 http://192.168.1.10:8088/netdisk</string>
+    <string name="username_hint">用户名</string>
+    <string name="password_hint">密码</string>
+    <string name="login">登 录</string>
+    <string name="logging_in">正在登录…</string>
+
+    <string name="menu_upload">上传</string>
+    <string name="menu_mkdir">新建文件夹</string>
+    <string name="menu_shares">分享管理</string>
+    <string name="menu_logout">退出登录</string>
+
+    <string name="empty_dir">空文件夹</string>
+    <string name="empty_shares">还没有分享</string>
+
+    <string name="op_download">下载</string>
+    <string name="op_share">分享</string>
+    <string name="op_rename">重命名</string>
+    <string name="op_move">移动</string>
+    <string name="op_delete">删除</string>
+
+    <string name="confirm">确定</string>
+    <string name="cancel">取消</string>
+    <string name="copy">复制</string>
+    <string name="copied">已复制</string>
+    <string name="close">关闭</string>
+    <string name="share_link_title">分享链接</string>
+    <string name="clear_all">清空全部</string>
+</resources>
